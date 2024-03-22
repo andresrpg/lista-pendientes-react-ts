@@ -1,10 +1,5 @@
 
-## Tutorial: Cómo hacer una lista de tareas en React con TypeScript
-
-Link al curso completo en Youtube:
-[TYPESCRIPT DESDE CERO POR SERGIE CODE](https://youtu.be/UTA5bykCx2c)
-
-En este tutorial, aprenderás cómo crear una simple lista de tareas utilizando React con TypeScript. Vamos a utilizar los componentes funcionales de React, el estado local y las propiedades tipadas. Al finalizar, tendrás una aplicación que te permitirá agregar y borrar tareas de una lista.
+Lista de tareas en React con TypeScript
 
 ### Paso 1: Configuración del proyecto
 
@@ -125,3 +120,6 @@ npm start
 ```
 
 Esto abrirá tu aplicación en el navegador. Ahora deberías poder agregar y borrar tareas en tu lista de tareas.
+
+...
+Agradecimientos a @Sergiecode por los conocimientos repasados.
